@@ -1,5 +1,7 @@
 # jackmappotion_archive
-https://github.com/jackmappotion (raw_github)
+https://github.com/jackmappotion
 
-#### My NFT
-![image](./README_ASSETS/onegolsu_256.png)
+
+## My NFT!
+![image](./README_ASSETS/onegolsu_512.png)
+
